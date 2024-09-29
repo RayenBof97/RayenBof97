@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Rayen Bouafif
-- 👀 I’m interested in Computer vision , AI , Machine Leaning...
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me : 
+- 👋 Hi, I’m Rayen Bouafif , Electrical Engineering Student 
+- 👀 I’m interested in Embedded Systems , Control systems
+- Things I worked on : 
+- 📫 How to reach me :
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+---
+
 - Email : rayen.bouafif@insat.ucar.tn
 - LinkedIn: www.linkedin.com/in/rayen-bouafif-275a8b219/
 
