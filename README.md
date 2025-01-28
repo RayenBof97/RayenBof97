@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Rayen Bouafif</h1>
 <h3 align="center">A passionate Electrical Engineering Student from Tunisia 🇹🇳</h3>
 
-- 🌱 I’m currently learning **RUST , RTOS , VLSI ...**
+- 🌱 I’m currently learning ** RTOS ,Zephyr, VHDL ...**
 
 - 👯 I’m looking to collaborate on **Embedded Systems Projects**
 
